@@ -5,7 +5,7 @@ import com.mycompany.empresaalimentosumd.TransaccionesDistribuidas.Productos;
 import java.util.HashMap;
 import java.util.Map;
 
-
+//@AlainGomez
 
 public class CacheProduct {
      private static Map<Integer, Productos> cache = new HashMap<>();

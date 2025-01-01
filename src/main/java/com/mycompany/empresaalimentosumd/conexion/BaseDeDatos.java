@@ -10,7 +10,7 @@ import java.sql.SQLException;
 
 /**
  *
- * @author gomez
+ * @author AlainGomez
  */
 public class BaseDeDatos {
     public static Connection conectarABaseDeDatos() throws SQLException{
